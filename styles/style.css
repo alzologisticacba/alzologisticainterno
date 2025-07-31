@@ -101,6 +101,7 @@ h2 {
 
 #resultado {
   margin-top: 20px;
+  font-family: 'Poppins', sans-serif;
 }
 
 .resultado-activo {
@@ -113,6 +114,7 @@ h2 {
   margin-top: 20px;
   font-size: 18px;
 }
+
 #contacto {
   display: flex;
   flex-direction: column;
@@ -300,6 +302,7 @@ h2 {
   padding: 12px 0;
   margin: 10px auto;
   font-size: 16px;
+  font-family: 'Poppins', sans-serif;
   color: white;
   background: linear-gradient(to right, #00bfff, #1a75ff);
   border: none;
